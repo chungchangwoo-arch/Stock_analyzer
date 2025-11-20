@@ -1,2 +1,10 @@
 streamlit
+requests
+groq
 pandas
+finance-datareader
+plotly
+numpy
+python-dateutil
+beautifulsoup4
+lxml
